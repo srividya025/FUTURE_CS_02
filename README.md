@@ -30,23 +30,23 @@ The objective is to detect phishing indicators and provide prevention guidance f
 ## ⚠️ Risk Classification
 **🔴 Phishing – High Risk**
 
-The analyzed email attempts to impersonate PayPal and tricks users into entering login credentials through a fake verification link.
+The analyzed email attempts to impersonate Amazon and tricks users into verifying payment details through a fake order confirmation link.
 
 ---
 
 ## 🧠 Attack Explanation
-The attacker sends a fake PayPal security alert email to create urgency.
+The attacker sends a fake Amazon order problem alert to create urgency and confusion.
 
-Users are pressured to click a malicious link and enter credentials, resulting in account compromise and potential data theft.
+Users are pressured to click a malicious link to "verify payment details," which leads to a fake website designed to steal login credentials and financial information.
 
 ---
 
 ## 🛡 Prevention Guidelines
-- Avoid clicking unknown email links  
-- Verify sender domain carefully  
+- Avoid clicking unknown or suspicious email links  
+- Verify the sender’s domain carefully  
+- Check order details directly from the official Amazon website  
 - Enable Two-Factor Authentication (2FA)  
-- Report suspicious emails  
-- Never share OTP or passwords  
+- Report suspicious emails to the official support team  
 
 ---
 
@@ -59,6 +59,6 @@ Users are pressured to click a malicious link and enter credentials, resulting i
 ---
 
 ## ✅ Conclusion
-This project demonstrates how phishing emails can be detected using structured analysis techniques and how cybersecurity awareness helps users avoid email-based attacks.
+This project demonstrates how phishing emails impersonating trusted brands like Amazon can be detected using structured analysis techniques.
 
-User awareness and proper verification practices are essential to prevent credential theft and phishing incidents.
+Cybersecurity awareness and careful verification practices are essential to prevent credential theft and financial fraud.
