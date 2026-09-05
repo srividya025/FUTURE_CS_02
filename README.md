@@ -1,4 +1,4 @@
-# 🚨 FUTURE_CS_02 – Phishing Email Detection & Awareness
+# 🚨 Phishing Email Detection & Awareness
 
 ## 📌 Task Overview
 This task focuses on identifying and analyzing phishing emails to understand attack techniques and improve user awareness against email-based cyber threats.
